@@ -1,0 +1,4 @@
+PROJECT_NAME = flecs
+GENERATE_XML = YES
+EXCLUDE_PATTERNS = */tests/* */test/* include/flecs/util/*
+
